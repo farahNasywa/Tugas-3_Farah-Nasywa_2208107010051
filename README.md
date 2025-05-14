@@ -55,6 +55,7 @@ Tugas-3_Farah-Nasywa_2208107010051/
 ### 1. Clone Repository
 
 git clone https://github.com/Tugas-3_Farah-Nasywa_2208107010051.git
+
 cd Tugas-3_Farah-Nasywa_2208107010051
 
 ### 2. Siapkan Environment Python
@@ -101,15 +102,5 @@ Server akan berjalan di `http://localhost:8000/`.
 - Melatih kerapihan penyusunan struktur proyek dan dokumentasi.
 
 ---
-
-## 📋 Hasil Model
-
-<img width="1439" alt="Frontend" src="https://github.com/user-attachments/assets/042792aa-460c-4310-82e6-db965cba7dfe" />
-
-<img width="1440" alt="Frontend1" src="https://github.com/user-attachments/assets/e33d79b1-9105-40a9-ba1b-0871b939041e" />
-
-<img width="1239" alt="HasilEvaluasiModel" src="https://github.com/user-attachments/assets/cc3adb22-3da7-4a39-aae1-fef45e0f09d2" />
-
-<img width="1232" alt="TrainingModel" src="https://github.com/user-attachments/assets/e301e037-7462-4dd9-ba32-b61a55b62bd7" />
 
 ---
