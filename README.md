@@ -54,7 +54,7 @@ Tugas-3_Farah-Nasywa_2208107010051/
 
 ### 1. Clone Repository
 
-git clone https://github.com/Tugas-3_Farah-Nasywa_2208107010051.git
+git clone https://github.com/farahNasywa/Tugas-3_Farah-Nasywa_2208107010051.git
 
 cd Tugas-3_Farah-Nasywa_2208107010051
 
